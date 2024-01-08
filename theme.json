@@ -1,7 +1,6 @@
 {
     "name": "Player Status Color Changer",
     "author": "Capybara",
-    "target": "System-wide",
     "version": "1.0",
     "manifest_version": 9,
     "tabs": {
